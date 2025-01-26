@@ -6,11 +6,10 @@
 - [3]()
 
 ### 🔧 Tools
-- [1]()
-- [2]()
-- [3]()
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 ### 🎓 Learning Platforms
 - [Coding Enthusiasts](https://chat.whatsapp.com/F7MAST874qH2TzkAZjYjSk)
+- [Tech Enthusiasts]()
 
 
