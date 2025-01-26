@@ -1,17 +1,17 @@
 # 📚 Important Links
 
 ### 📖 Documentation
-- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS Tricks](https://css-tricks.com/)
-- [JavaScript.info](https://javascript.info/)
+- [MDN Web Docs - HTML]()
+- [CSS Tricks]()
+- [JavaScript.info]()
 
 ### 🔧 Tools
-- [CodePen](https://codepen.io/)
-- [JSFiddle](https://jsfiddle.net/)
-- [Can I Use](https://caniuse.com/)
+- [CodePen]()
+- [JSFiddle]()
+- [Can I Use]()
 
 ### 🎓 Learning Platforms
-- [FreeCodeCamp](https://www.freecodecamp.org/)
-- [W3Schools](https://www.w3schools.com/)
-- [Frontend Mentor](https://www.frontendmentor.io/)
+- [Coding Enthusiasts]([https://www.freecodecamp.org/](https://chat.whatsapp.com/F7MAST874qH2TzkAZjYjSk))
+- [W3Schools]()
+- [Frontend Mentor]()
 
