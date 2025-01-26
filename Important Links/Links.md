@@ -18,7 +18,7 @@
 - [Youtube Channel](https://www.youtube.com/channel/UCVI1nHwDJIWu5jEouXidXuA)
 
 ## 🦹 Support
-- [Contact US : community@stemonef.org]
+- Contact US : community@stemonef.org
 
 ## 📝 Membership
 - [Form](https://forms.gle/MrCE384D9biGonZ66)
