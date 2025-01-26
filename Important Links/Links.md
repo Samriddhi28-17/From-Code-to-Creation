@@ -6,6 +6,7 @@
 
 ### 📖 Documentation
 - [VSC Docs](https://code.visualstudio.com/docs)
+- [Tags](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ### 🔧 Tools
 - [Visual Studio Code](https://code.visualstudio.com/download)
