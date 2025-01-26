@@ -1,17 +1,16 @@
 # 📚 Important Links
 
 ### 📖 Documentation
-- [MDN Web Docs - HTML]()
-- [CSS Tricks]()
-- [JavaScript.info]()
+- [1]()
+- [2]()
+- [3]()
 
 ### 🔧 Tools
-- [CodePen]()
-- [JSFiddle]()
-- [Can I Use]()
+- [1]()
+- [2]()
+- [3]()
 
 ### 🎓 Learning Platforms
 - [Coding Enthusiasts](https://chat.whatsapp.com/F7MAST874qH2TzkAZjYjSk)
-- [W3Schools]()
-- [Frontend Mentor]()
+
 
