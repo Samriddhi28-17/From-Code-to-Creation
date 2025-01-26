@@ -1,7 +1,7 @@
 # 📚 Important Links
 
 ### 📖 Documentation
-- [1]()
+- [VSC Docs](https://code.visualstudio.com/docs)
 - [2]()
 - [3]()
 
