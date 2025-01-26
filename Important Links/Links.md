@@ -1,7 +1,8 @@
 # 📚 Important Links
 
-## 🧑‍🏫 LinkeIN
+## 🧑‍🏫 LinkedIN
 - [Community](https://www.linkedin.com/company/stemonefcommunity/)
+- [STEM Support](https://www.linkedin.com/showcase/stemonef-community-support-01/)
 
 ### 📖 Documentation
 - [VSC Docs](https://code.visualstudio.com/docs)
@@ -17,7 +18,6 @@
 - [Youtube Channel](https://www.youtube.com/channel/UCVI1nHwDJIWu5jEouXidXuA)
 
 ## 🦹 Support
-- [STEM Support](https://www.linkedin.com/showcase/stemonef-community-support-01/)
 - [Contact US](community@stemonef.org)
 
 ## 📝 Membership
