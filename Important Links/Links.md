@@ -4,7 +4,7 @@
 - [Community](https://www.linkedin.com/company/stemonefcommunity/)
 - [STEM Support](https://www.linkedin.com/showcase/stemonef-community-support-01/)
 
-### 📖 Documentation
+## 📖 Documentation
 - [VSC Docs](https://code.visualstudio.com/docs)
 - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
@@ -13,10 +13,10 @@
   - [DAY-1](https://www.youtube.com/watch?v=xEFiBHjTxk0)
   - [DAY-2](https://www.youtube.com/watch?v=UzyLBaAw1-0)
 
-### 🔧 Tools
+## 🔧 Tools
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
-### 🎓 Learning Platforms
+## 🎓 Learning Platforms
 - [Coding Enthusiasts](https://chat.whatsapp.com/F7MAST874qH2TzkAZjYjSk)
 - [Whatsapp](https://chat.whatsapp.com/KnaIexqqEymGHdz3O6KYlh)
 
