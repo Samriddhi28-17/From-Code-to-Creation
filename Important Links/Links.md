@@ -8,6 +8,11 @@
 - [VSC Docs](https://code.visualstudio.com/docs)
 - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
+## 📹 Session Links
+  ## 👉 HTML
+  - [DAY-1](https://www.youtube.com/watch?v=xEFiBHjTxk0)
+  - [DAY-2](https://www.youtube.com/watch?v=UzyLBaAw1-0)
+
 ### 🔧 Tools
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -15,8 +20,9 @@
 - [Coding Enthusiasts](https://chat.whatsapp.com/F7MAST874qH2TzkAZjYjSk)
 - [Whatsapp](https://chat.whatsapp.com/KnaIexqqEymGHdz3O6KYlh)
 
-## 📹 Recorded Sessions
-- [Youtube Channel](https://www.youtube.com/channel/UCVI1nHwDJIWu5jEouXidXuA)
+## 🐦‍🔥 Channel Links
+- [STEMONEF Channel](https://www.youtube.com/channel/UCVI1nHwDJIWu5jEouXidXuA)
+- [Namdapha Channel](https://www.youtube.com/@Namdapha_IITM/streams)
 
 ## 🦹 Support
 - Contact US : community@stemonef.org
