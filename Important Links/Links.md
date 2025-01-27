@@ -13,6 +13,13 @@
   - [DAY-1](https://www.youtube.com/watch?v=xEFiBHjTxk0)
   - [DAY-2](https://www.youtube.com/watch?v=UzyLBaAw1-0)
 
+  #### 👉 CSS
+  -[Coming Soon]() 
+  
+  #### 👉 Java Script
+  -[Coming Soon]() 
+  
+
 ## 🔧 Tools
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
