@@ -9,7 +9,7 @@
 - [HTML Tags](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ## 📹 Session Links
-  ## 👉 HTML
+  ### 👉 HTML
   - [DAY-1](https://www.youtube.com/watch?v=xEFiBHjTxk0)
   - [DAY-2](https://www.youtube.com/watch?v=UzyLBaAw1-0)
 
