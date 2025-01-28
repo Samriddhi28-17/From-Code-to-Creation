@@ -12,6 +12,7 @@
   #### 👉 HTML
   - [DAY-1](https://www.youtube.com/watch?v=xEFiBHjTxk0)
   - [DAY-2](https://www.youtube.com/watch?v=UzyLBaAw1-0)
+  - [DAY-3](https://www.youtube.com/watch?v=HWrEd5t4F08)
 
   #### 👉 CSS
   -[Coming Soon]() 
