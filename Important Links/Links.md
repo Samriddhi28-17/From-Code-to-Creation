@@ -15,7 +15,8 @@
   - [DAY-3](https://www.youtube.com/watch?v=HWrEd5t4F08)
 
   #### 👉 CSS
-  - [DAY-1](https://www.youtube.com/live/MDPF3JMKx8o) 
+  - [DAY-1](https://www.youtube.com/live/MDPF3JMKx8o)
+  - [DAY-2](https://www.youtube.com/watch?v=1FCaO6kQbh4)
   
   #### 👉 Java Script
   -[Coming Soon]() 
