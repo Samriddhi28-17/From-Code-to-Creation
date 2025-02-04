@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transformation & Transition</title>
+</head>
+<style>
+    .e{
+        width: 64px;
+        height: 64px;
+        background-color: black;
+        margin: 10px;
+    }
+
+    body{
+        background-color: red;
+    }
+
+    .g{
+        transition-property: transform;
+        transition-duration: 3s;
+        transition-timing-function: cubic-bezier(1,-0.01, 0, 0.95);
+        transition-delay: 1s;
+        transform: translateX(300px);
+    }
+
+    @keyframes apple {
+        from{
+
+        }
+        to{
+            transform: translateX(300px);
+        }
+        
+    }
+
+    .h{
+        animation-name: apple;
+        animation-duration: 0.7s;
+        animation-iteration-count: infinite;
+        animation-timing-function: ease-in-out;
+        /* animation-delay: 1s; */
+        animation-direction:alternate-reverse;
+    }
+    
+    /* @media not screen and (max-width:500px) {
+        body{
+            background-color: aqua;
+        }
+        .a{
+            display: flex;
+        }
+        
+    } */
+    /* .h{
+        transform: translateX(20px);
+    }
+    .i{
+        transform: translateY(20px);
+        transform: scale(2); 
+
+    }
+    .g{
+        transform: rotate(0.25turn);
+        color: antiquewhite;
+    } */
+</style>
+<body>
+    <div class="a">
+        <div class="e f">1</div>
+        <div class="e g">2</div>
+        <div class="e h">3</div>
+        <div class="e i">4</div>
+    </div>
+</body>
+</html>
