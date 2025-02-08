@@ -1,0 +1,77 @@
+Create a simple "To-Do List" application that allows users to add, view, and remove tasks.
+Specific Requirements:
+1.	User Input: Use the prompt() function to get input from the user for:
+•	Adding a new task to the list.
+•	Choosing an action (add, view, remove, or quit).
+•	Specify the task name to remove (instead of the index).
+2.	Variables:
+•	Declare a variable named to-do List that will store an array of strings (the to-do items). Initialize it as an empty array.
+•	Declare a variable to store the user's choice of action.
+3.	Statements:
+•	Use if/else if/else statements or a switch statement to handle the different actions the user can choose.
+4.	Loops:
+•	Use a while loop to keep the application running until the user chooses to quit.
+•	Use a for loop to display the to-do list items (you can omit the index numbers now).
+5.	Arrays:
+•	Use the push() method to add new tasks to the to-do List array.
+•	Use the splice() method to remove tasks from the to-do List array, but now you'll need to find the task within the array before removing it.
+6.	Strings:
+•	Ensure that the user's input for tasks are treated as strings.
+•	Display messages to the user that include string concatenation to provide clear instructions and feedback. For example: "Task added: " + new Task.
+
+The next pages contain a sample of how it should behave.
+
+You may add notifications after every action. To do so use the following code:
+alert(“ If you try to run it in your VS Code after a task, say push or pop, it will show ”);
+Using console.log() will end up showing the result in the console. Thus to show the results, you may use alert() in place of console.log(). It can be used in the same way as console.log() is used.
+
+You need to use JS and HTML. CSS is not required. 
+WELCOME TO THE TO-DO LIST MAKER!
+
+Available actions:
+* Add: Add a new task
+* View: View the current to-do list
+* Remove: Remove a task
+* Quit: Exit the application
+
+Enter an action: Add
+Enter the task to add: Buy groceries
+
+WELCOME TO THE TO-DO LIST MAKER!
+
+Available actions:
+* Add: Add a new task
+* View: View the current to-do list
+* Remove: Remove a task
+* Quit: Exit the application
+
+Enter an action: View
+To-Do List:
+- Buy groceries
+
+WELCOME TO THE TO-DO LIST MAKER!
+
+Available actions:
+- add: Add a new task
+- view: View the current to-do list
+- remove: Remove a task
+- quit: Exit the application
+
+Enter an action: remove
+Enter the task to remove: Buy groceries
+Task removed: Buy groceries
+
+WELCOME TO THE TO-DO LIST MAKER!
+
+Available actions:
+- add: Add a new task
+- view: View the current to-do list
+- remove: Remove a task
+- quit: Exit the application
+
+Enter an action: view
+To-Do List:
+(empty)
+
+Attached below is an image for reference:
+ 
