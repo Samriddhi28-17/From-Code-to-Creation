@@ -1,0 +1,111 @@
+img{
+    max-width: 25vw;
+    margin: 10px 20px;
+}
+
+video{
+    min-height: 20px;
+}
+
+img:hover{
+    border-style: groove;
+    border-color: chocolate;
+}
+
+h2{
+    border-style: groove;
+    border-color: aqua;
+    padding: 10px 20px;
+}
+
+.a{
+   list-style-type: square; 
+}
+
+.c{
+    list-style-type: circle;
+}
+
+.d{
+    list-style-type: none;
+}
+
+.e{
+    list-style-type:armenian;
+}
+
+.a:hover{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.b:hover{
+    background-color: crimson;
+}
+
+.c:hover{
+    box-shadow: inset 10px 4px grey;
+}
+
+.w{
+    border-style: solid;
+    margin:20px;
+    padding: 5px;
+    border-color: black;
+}
+/* pseudo classes */
+a:visited{
+    color: red;
+}
+
+a:hover{
+    color: green;
+}
+
+a:link{
+    color: aqua;
+}
+
+/* Combinators */
+/* 1.Descendant Selector */
+div p{
+    background-color: chocolate;
+}
+/* 2.Child Selector */
+div>p{
+    color: wheat;
+    background-color: blueviolet;
+}
+/* 3.Adjacent Sibling Selector */
+div+p{
+    color:brown !important;
+    background-color: blueviolet !important;
+}
+
+/* 4.General Selector */
+
+div~p{
+    background-color: crimson;
+    color: white;
+}
+
+p{
+    text-shadow: 2px 2px 2px black ;
+}
+
+img{
+    float: right;
+}
+
+.maple{
+    width: calc(80%);
+    height: 360px;
+    border-style: solid;
+    overflow: hidden;
+}
+
+.cap{
+    border-style: solid;
+    overflow: hidden;
+    width: min(50px , 50%);
+}
+
+/* static positioning */
