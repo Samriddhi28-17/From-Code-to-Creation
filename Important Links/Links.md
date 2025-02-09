@@ -20,7 +20,9 @@
   - [DAY-3](https://www.youtube.com/watch?v=wSPzBlDcuv8&t=1729s)
   
   #### 👉 Java Script
-  -[Coming Soon]() 
+  - [DAY-1](https://www.youtube.com/watch?v=goOARwcj-NY)
+  - [DAY-2](https://www.youtube.com/watch?v=dPYu4uG57fY)
+  - [DAY-3](https://www.youtube.com/watch?v=Q3wGEFtubrs)
   
 
 ## 🔧 Tools
